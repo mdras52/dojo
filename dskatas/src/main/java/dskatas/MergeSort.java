@@ -1,9 +1,6 @@
-package com.mdras52.dojo.dskatas;
-
-import com.mdras52.dojo.dskatas.utils.Trampoline;
+package dskatas;
 
 import java.util.ArrayList;
-import java.util.Arrays;
 import java.util.List;
 
 public class MergeSort {

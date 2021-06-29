@@ -1,4 +1,4 @@
-package com.mdras52.dojo.dskatas.utils;
+package dskatas.utils;
 
 
 import java.util.stream.Stream;
